@@ -1,12 +1,21 @@
 {
-  "name": "node-js",
+  "name": "js",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000N\u0000O\u0000D\u0000E\u0000-\u0000J\u0000S\u0000\r\u0000 \u0000",
   "license": "ISC",
   "author": "",
   "type": "module",
   "main": "test1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashanthkumarc008/NODE-JS.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/prashanthkumarc008/NODE-JS/issues"
+  },
+  "homepage": "https://github.com/prashanthkumarc008/NODE-JS#readme"
 }
