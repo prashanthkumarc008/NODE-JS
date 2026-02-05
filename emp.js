@@ -9,5 +9,8 @@ const data=fs.readFile(path.join(process.cwd(),"emp_data","data","emp","emp.json
 
 
 
+
+
+
     }
 })
