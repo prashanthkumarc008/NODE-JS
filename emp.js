@@ -6,8 +6,5 @@ const data=fs.readFile(path.join(process.cwd(),"emp_data","data","emp","emp.json
     let emp=JSON.parse(data);
     for(emp of emp){
         console.log(emp.name);
-
-
-
     }
 })
